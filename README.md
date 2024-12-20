@@ -1,4 +1,4 @@
-# Video Games / Epic-games-analysis
+# Video Games / Epic-Games-analysis
 
 ---
 
