@@ -55,7 +55,3 @@ The **"Video_Games"** dataset is a CSV file containing the following columns:
 
 ## **Conclusion**
 This analysis empowers Epic Games to understand market dynamics, refine strategies, and maintain competitiveness in the gaming industry. The insights aim to enhance user engagement and cater to the preferences of a global gaming community.
-
----
-
-Feel free to explore, contribute, or share feedback to improve the project!
