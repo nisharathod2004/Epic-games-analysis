@@ -5,6 +5,10 @@
 ## **Overview**
 This project focuses on analyzing the **"Video_Games"** dataset to uncover key insights about the gaming industry. Using Tableau, the analysis highlights popular games, dominant genres, and sales trends across regions, providing actionable insights for Epic Games to refine their strategies and offerings.
 
+## Tableau Dashboard
+Explore the interactive dashboard: [View on Tableau Public](https://public.tableau.com/app/profile/nisha.rathod6228/viz/Epic-Gaming/Dashboard1)
+
+
 ---
 
 ## **Dataset Details**
